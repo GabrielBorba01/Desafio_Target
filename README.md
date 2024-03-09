@@ -1,6 +1,7 @@
 # Desafio_Target
 
-    Este repositório foi criado com a finalidade de mostrar minhas soluções para os exercícios propostos pelo desafio target.
+    Este repositório foi criado com a finalidade de mostrar minhas soluções 
+    para os exercícios propostos pelo desafio target.
 
     Exercício 1:
     O valor da variável soma recebe 91.
