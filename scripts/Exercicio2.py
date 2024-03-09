@@ -4,8 +4,8 @@ d1 = 0
 d2 = 1
 d3 = 0
 temp = 0
-for i in range(2, resposta):
-    if i == 2:
+for i in range(1, resposta):
+    if i == 1:
         print(f'{d1} {d2}', end='')
     else:
         d3 = d2 + d1
