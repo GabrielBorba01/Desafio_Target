@@ -33,8 +33,11 @@
 
     Exercício 4:
 
-        Acenderia o 1° interruptor por alguns minutos e o 2° por um tempo maior. Iria a primeira sala e tocaria na lampada para sentir a temperatura, entraria na segunda sala e faria a mesma coisa.
-        Com essas informações eu teria que a lampada com maior temperatura seria do interruptor 2, a lampada menos quente seria do interruptor 1 e a lampada de menor temperatura seria do interruptor numero 3.
+        Acenderia o 1° interruptor por alguns minutos e o 2° por um tempo maior. 
+        Iria a primeira sala e tocaria na lampada para sentir a temperatura, 
+        entraria na segunda sala e faria a mesma coisa.
+        Com essas informações eu teria que a lampada com maior temperatura seria do interruptor 2, 
+        a lampada menos quente seria do interruptor 1 e a lampada de menor temperatura seria do interruptor numero 3.
     
     Exercício 5: 
 
