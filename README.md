@@ -10,7 +10,7 @@
     
     print(f"Sequência Fibonacci:")
     resposta = int(input("Quantos digítos você deseja mostrar: "))
-    d1 = 0
+    d1 = 1
     d2 = 1
     d3 = 0
     temp = 0
